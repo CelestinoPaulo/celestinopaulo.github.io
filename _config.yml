@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/v2/D4D03AQFgpELwVldlkw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1678750093113?e=1732147200&v=beta&t=Teb8k73j6hNRUXaJDcNRPKAzPAGBB9cmiaKX1r0r82k 
+avatar: assets/img/favicons/apple-chrome-512x512.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
