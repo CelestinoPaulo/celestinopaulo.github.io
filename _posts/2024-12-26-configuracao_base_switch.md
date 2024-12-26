@@ -1,6 +1,6 @@
 ---
 title: Configuração Básica de um Switch Cisco Catalyst 2960.
-description: Neste post, apresentamos, de forma detalhada, o passo a passo para realizar uma configuração básica no switch da série 2960.
+description: Neste post, apresentamos detalhadamente o passo a passo para realizar uma configuração básica no switch da série 2960.
 author: Celestino
 date: 2024-12-26 17:57:00 +0800
 categories: [Networking]
