@@ -152,7 +152,7 @@ R4(config)# ip route 10.0.0.0 255.255.255.0 Tunnel0
 
 ### ✅Estado do Tunnel GRE
 Conforme destacado o tunel esta esstabelecido.
-![Desktop View](/assets/img/post_images/vpn/check1.png){: width="972" height="589" }
+![Desktop View](/assets/img/post_images/vpn/verificar.png){: width="972" height="589" }
 
 ### ✅Verificar a Quantidade de Hops (Saltos)
 Vamos verificar a quantidade de saltos entre o cliente da Filial (Branch) para Server da Sede (HQ), conforme a imagem estamos a distância 2 saltos (menos o host).
