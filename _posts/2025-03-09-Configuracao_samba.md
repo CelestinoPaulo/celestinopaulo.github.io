@@ -1,5 +1,5 @@
 ---
-title: 🖧 Compartilhamento de Arquivos com Samba no RHEL 10
+title: 🖧 Compartilhamento de Arquivos com Samba (SMB) no RHEL 10
 description: Este post tem como objetivo demonstrar a configuração do Samba em um ambiente de laboratório com RHEL 10, uma máquina virtual no VMware, e acesso a partir de um cliente Windows 10. A ideia é criar um ambiente de compartilhamento de arquivos entre sistemas Linux e Windows de forma prática e funcional.
 author: Celestino
 date: 2025-03-09 17:57:00 +0800
