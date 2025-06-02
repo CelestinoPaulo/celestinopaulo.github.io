@@ -1,5 +1,5 @@
 ---
-title: 🚧 VPN Site-to-Sie: Conectando Sede (HQ) e Filial (Branch) com GRE Puro.
+title: "🚧 VPN Site-to-Sie: Conectando Sede (HQ) e Filial (Branch) com GRE Puro."
 description: Neste post, o objetivo é demonstrar a configuração de uma VPN Site-to-Site utilizando apenas GRE (Generic Routing Encapsulation) entre roteadores Cisco, conectando duas redes locais — uma na sede (HQ) e outra em uma filial (Branch).
 author: Celestino
 date: 2025-01-15 17:57:00 +0800
