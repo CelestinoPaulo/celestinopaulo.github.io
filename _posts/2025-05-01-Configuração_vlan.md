@@ -1,5 +1,5 @@
 ---
-title: Configuração de Virtual LAN (VLAN)
+title: Segmentação de Redes com Virtual LAN (VLAN)
 description: Sua rede está lenta, insegura ou difícil de gerenciar? A segmentação com VLANs pode ser a solução que falta. Neste post, você vai entender os desafios de redes sem segmentação, os benefícios do uso de VLANs e como aplicá-las na prática para criar uma rede mais eficiente, segura e organizada.
 author: Celestino
 date: 2025-05-01 17:57:00 +0800
